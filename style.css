@@ -4,7 +4,7 @@ body{
 }
 .hero{
     background-color: #481E14;
-    color: #00215E;
+    color: #5F374B;
     height: 100vh;
     display: flex;
     font-family: "Jacquard 24", system-ui;
@@ -13,7 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     display: flex;
-    height: 10vh;
+    height: 100vh;
     margin: 0 0;
     padding: 0 0;
     width: 50%;
@@ -70,3 +70,9 @@ h3{
     background-color: #FBF3D5;
     rotate: -45deg;
 }
+.photo{
+    width: 70%;
+    rotate: -5deg;
+    box-shadow: 20px 20px 20px 0 black;
+}
+
